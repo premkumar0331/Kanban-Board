@@ -21,7 +21,7 @@
   background-color: #4b4e4e;
 }
 .toolbox_priority_cont > *:hover{
-background-color: orange;
+background-color: cyan;
 }
 .color{
   width: 100px;
@@ -30,16 +30,16 @@ background-color: orange;
   background-color: black;
 }
 .lightpink{
-  background-color: lightpink;
+  background-color: rgb(215, 18, 233);
 }
 .lightgreen{
-  background-color: lightgreen;
+  background-color: rgb(255, 165, 0);
 }
 .lightblue{
-  background-color: lightblue;
+  background-color: rgb(12, 173, 226);
 }
 .lightblack{
-  background-color: black;
+  background-color: green;
 }
 
 .action_btn_cont{
@@ -136,7 +136,7 @@ padding: 8px;
   }
 
   .priority_color_cont > *:hover{
-    background-color: gold;
+    background-color: cyan;
     }
 
   .active{
